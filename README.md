@@ -1,4 +1,4 @@
-# Assignment2
+# Learn-npm
 A short description
 ## Purpose: creating a js package
 **_BEWARE:_ This library was published for learning purposes. It is _not_ int
