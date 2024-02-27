@@ -1,0 +1,11 @@
+{
+  "name": "@mkxiv/learn-npm",
+  "version": "1.0.0",
+  "description": "a mini clone of the lodash library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Montana kampe",
+  "license": "ISC"
+}
